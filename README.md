@@ -8,7 +8,7 @@ Im Adii Andre
   "full-name": "Adii Andre Taulani",
   "age": "19",
   "borned": "18 March 2002",
-  "hobby": "Listening to Music"
+  "hobby": "Listening to Music",
   "ilike": "Coding JS",
   "always": "Ngebot WhatsApp/Discord"
 }
