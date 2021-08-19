@@ -1,7 +1,12 @@
 # Hello All!
 
-Im Adii Andre
+Im Adii
 - I Always Looking An Girl To be my Girlfriend 🙂
+
+<p align="center">
+<a href="#"><img title="selfbotz" 
+src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
 
 ```json
 {
