@@ -23,4 +23,4 @@ Im Adii Andre
 - [Instagram](https://instagram.com/adiistah)
 - [YouTube](https://youtube.com/adiination)
 - Spotify : ItzHereAdii
-- Discord : </ Adiixyz >
+- Discord : ItsukiItzHere
