@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Adiixyz
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python JavaScript HTML dan CSS
-- 💞️ I’m looking to collaborate on What is this
-- 📫 How to reach me Hmm
+# Hello All!
 
-<!---
-Adiixyz/Adiixyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Im Adii Andre
+
+```json
+{
+  "full-name": "Adii Andre Taulani",
+  "age": "19",
+  "borned": "18 March 2002",
+  "hobby": "Listening to Music"
+  "learning": "Javascript, Python, HTML",
+  "ilike": "Coding JS,Py,Html",
+  "always": "Ngebot WhatsApp/Discord"
+}
+```
+# Contact Me!
+- [Whatsapp](https://wa.me/60199782326)
+
+## My Stats
+<p align="center"><a href="https://github.com/Adiixyz"><img src="https://github-readme-stats.vercel.app/api?username=Adiixyz&show_icons=true&theme=radical"></a></p>
+
+### Sosial Media
+- [Instagram](https://instagram.com/adiistah)
+- [YouTube](https://youtube.com/adiination)
+- Spotify : ItzHereAdii
+- Discord : </ Adiixyz >
