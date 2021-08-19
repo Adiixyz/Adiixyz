@@ -9,7 +9,6 @@ I Always Looking An Girl To be my Girlfriend 🙂
   "age": "19",
   "borned": "18 March 2002",
   "hobby": "Listening to Music"
-  "learning": "Javascript, Python, HTML",
   "ilike": "Coding JS,Py,Html",
   "always": "Ngebot WhatsApp/Discord"
 }
