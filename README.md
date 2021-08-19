@@ -1,7 +1,7 @@
 # Hello All!
 
 Im Adii Andre
-I Always Looking An Girl To be my Girlfriend 🙂
+- I Always Looking An Girl To be my Girlfriend 🙂
 
 ```json
 {
@@ -9,7 +9,7 @@ I Always Looking An Girl To be my Girlfriend 🙂
   "age": "19",
   "borned": "18 March 2002",
   "hobby": "Listening to Music"
-  "ilike": "Coding JS,Py,Html",
+  "ilike": "Coding JS",
   "always": "Ngebot WhatsApp/Discord"
 }
 ```
