@@ -8,6 +8,10 @@ Hi , Im Adii
 src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
+#### Top Languages
+![GitHub TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiixyz&layout=compact&theme=highcontrast)
+<br>
+
 ```json
 {
   "full-name": "Adii Andre Taulani",
