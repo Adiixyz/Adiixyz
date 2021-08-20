@@ -31,4 +31,4 @@ src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e4
 
 ### Sosial Media
 [![YouTube](https://img.shields.io/badge/ItzHereAdii-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
-
+[![Instagram](https://img.shields.io/badge/adiistah-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adiistah)
