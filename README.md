@@ -30,7 +30,5 @@ src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e4
 <p align="center"><a href="https://github.com/Adiixyz"><img src="https://github-readme-stats.vercel.app/api?username=Adiixyz&show_icons=true&theme=radical"></a></p>
 
 ### Sosial Media
-- [Instagram](https://instagram.com/adiistah)
-- [YouTube](https://youtube.com/adiination)
-- Spotify : ItzHereAdii
-- Discord : ItsukiItzHere
+[![YouTube](https://img.shields.io/badge/ItzHereAdii-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
+
