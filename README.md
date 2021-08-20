@@ -1,6 +1,6 @@
-# Hello All!
+<h1 align="center">Adiixyz</h1>
 
-Im Adii
+Hi , Im Adii
 - I Always Looking An Girl To be my Girlfriend 🙂
 
 <p align="center">
@@ -19,7 +19,8 @@ src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e4
 }
 ```
 # Contact Me!
-- [Whatsapp](https://wa.me/60199782326)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60199782326)
+
 
 ## My Stats
 <p align="center"><a href="https://github.com/Adiixyz"><img src="https://github-readme-stats.vercel.app/api?username=Adiixyz&show_icons=true&theme=radical"></a></p>
