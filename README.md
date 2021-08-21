@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./pics/IMG-20210820-WA0170.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="./image/IMG-20210820-WA0062.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <h1 align="center">Adiixyz</h1>
