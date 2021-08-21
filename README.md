@@ -38,7 +38,9 @@ src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e4
 ### Sosial Media
 [![YouTube](https://img.shields.io/badge/ItzHereAdii-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
 [![Instagram](https://img.shields.io/badge/adiistah-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adiistah)
+[![spotify](https://img.shields.io/badge/ItzHereAdii-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31swawixurse2cfemtyg4tqaxcwy?si=OQvrwZPSQzS4xxpi3-dQog&utm_source=copy-link&dl_branch=1)
 
+### Spotify Now Playing/
 <p align="center">
   <a href="https://open.spotify.com/user/31swawixurse2cfemtyg4tqaxcwy" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Now Playing at Spotify" width="400"/></a>
 </p>
