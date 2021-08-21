@@ -12,10 +12,9 @@ Hi , Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/m
 src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-#### My Stats
+#### top language
 ![GitHub TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiixyz&layout=compact&theme=highcontrast)
 <br>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiixyz&theme=monokai)
 
 ```json
 {
@@ -33,6 +32,7 @@ src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e4
 
 ## My Stats
 <p align="center"><a href="https://github.com/Adiixyz"><img src="https://github-readme-stats.vercel.app/api?username=Adiixyz&show_icons=true&theme=radical"></a></p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiixyz&theme=monokai)
 
 ### Sosial Media
 [![YouTube](https://img.shields.io/badge/ItzHereAdii-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
