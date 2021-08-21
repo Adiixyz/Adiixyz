@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="./pics/IMG-20210820-WA0170.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+
 <h1 align="center">Adiixyz</h1>
 
 Hi , Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="54px">
