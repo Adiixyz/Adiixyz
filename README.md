@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="./image/IMG-20210820-WA0062.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/2758c1f4c852cd7d1f206.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <h1 align="center">Adiixyz</h1>
@@ -12,9 +12,10 @@ Hi , Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/m
 src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-#### Top Languages
+#### My Stats
 ![GitHub TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiixyz&layout=compact&theme=highcontrast)
 <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiixyz&theme=monokai)
 
 ```json
 {
