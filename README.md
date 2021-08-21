@@ -1,7 +1,6 @@
 <h1 align="center">Adiixyz</h1>
 
 Hi , Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="54px">
-<img 
 - I Always Looking An Girl To be my Girlfriend 🙂
 
 <p align="center">
