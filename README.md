@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://telegra.ph/file/2758c1f4c852cd7d1f206.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+	<img src="https://telegra.ph/file/2758c1f4c852cd7d1f206.jpg" width="119%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 
 <h1 align="center">Adiixyz</h1>
@@ -8,7 +8,7 @@ Hi , Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/m
 - I Always Looking An Girl To be my Girlfriend 🙂
 
 <p align="center">
-<a href="#"><img title="selfbotz" 
+<a href="#"><img title="AdiiXyz" 
 src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
