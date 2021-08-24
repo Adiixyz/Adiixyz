@@ -1,4 +1,7 @@
-<div class="tenor-gif-embed" data-postid="20681898" data-share-method="host" data-aspect-ratio="1.07383" data-width="100%"><a href="https://tenor.com/view/itsuki-quintess-quintessential-quintuplets-cute-anime-anime-gif-20681898">Itsuki Quintess GIF</a>from <a href="https://tenor.com/search/itsuki-gifs">Itsuki GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<p align="center">
+	<img src="https://tenor.com/byWta.gif" width="119%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+
 <h1 align="center">Adiixyz</h1>
 
 Hi , Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="54px">
