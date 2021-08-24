@@ -1,6 +1,4 @@
-<p align="center">
-	<img src="https://tenor.com/byWta.gif" width="119%" style="margin-left: auto;margin-right: auto;display: block;">
-</p>
+![NakanoItsuki](https://tenor.com/byWta.gif)
 
 <h1 align="center">Adiixyz</h1>
 
