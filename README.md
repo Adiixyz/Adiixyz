@@ -29,7 +29,7 @@ src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e4
 
 ![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiixyz&theme=midnight-purple)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiixyz&theme=midnight-purple)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiixyz&theme=monokai)
 
 ### Sosial Media
 [![YouTube](https://img.shields.io/badge/ItzHereAdii-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
