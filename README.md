@@ -10,10 +10,7 @@ Hi , Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/m
 src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-#### top language
-![GitHub TopLanguage](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiixyz&layout=compact&theme=highcontrast)
-<br>
-
+#### My Info
 ```json
 {
   "full-name": "Adii Andre Taulani",
@@ -27,8 +24,11 @@ src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e4
 # Contact Me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60199782326)
 
-
 ## My Stats
+![Github stat](https://github-readme-stats.vercel.app/api?username=Adiixyz&theme=midnight-purple&show_icons=true) 
+
+![Github languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Adiixyz&theme=tokyonight)
+
 <p align="center"><a href="https://github.com/Adiixyz"><img src="https://github-readme-stats.vercel.app/api?username=Adiixyz&show_icons=true&theme=radical"></a></p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiixyz&theme=monokai)
