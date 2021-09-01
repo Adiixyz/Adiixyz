@@ -1,27 +1,15 @@
 ![NakanoItsuki](https://telegra.ph/file/6e3ea682e61a4350fff7a.jpg)
 
-<h1 align="center">Adiixyz</h1>
+<h1 align="center">Itsuki-Chan</h1>
 
-# Hi , Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="54px">
-- I Always Looking An Girl To be my Girlfriend 🙂
+# Hi , Im Itsuki-Chan <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="54px">
 
 <p align="center">
-<a href="#"><img title="AdiiXyz" 
-src="https://img.shields.io/badge/Adiixyz-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="itsuki" 
+src="https://img.shields.io/badge/Itsukichan-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 
-#### My Info
-```json
-{
-  "full-name": "Adii Andre Taulani",
-  "age": "19",
-  "borned": "18 March 2002",
-  "hobby": "Listening to Music",
-  "ilike": "Coding JS",
-  "always": "Ngebot WhatsApp/Discord"
-}
-```
-# Contact Me!
+## Contact Me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60199782326)
 
 ## My Stats
