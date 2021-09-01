@@ -1,4 +1,4 @@
-![NakanoItsuki](https://tenor.com/byWta.gif)
+![NakanoItsuki](https://telegra.ph/file/6e3ea682e61a4350fff7a.jpg)
 
 <h1 align="center">Adiixyz</h1>
 
