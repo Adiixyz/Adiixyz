@@ -1,4 +1,4 @@
-![Ni](https://github.com/Adiixyz.png?v=4)
+![Ni](https://github.com/Adiixyz.png)
 
 <h1 align="center">Adiixyz</h1>
 
