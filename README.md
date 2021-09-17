@@ -1,4 +1,4 @@
-![NakanoItsuki](https://telegra.ph/file/6e3ea682e61a4350fff7a.jpg)
+![Ni](https://github.com/Adiixyz.png?v=4)
 
 <h1 align="center">Adiixyz</h1>
 
