@@ -26,7 +26,7 @@ src="https://img.shields.io/badge/Adiixyz-red?colorA=%23ff0000&colorB=%23017e40&
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adiixyz&theme=monokai)
 
 ### Sosial Media
-[![YouTube](https://img.shields.io/badge/ItzHereAdii-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
+[![YouTube](https://img.shields.io/badge/Adiixyz%20X%20404-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
 [![Instagram](https://img.shields.io/badge/adiistah-pink?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adiistah)
 [![spotify](https://img.shields.io/badge/ItzHereAdii-green?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31swawixurse2cfemtyg4tqaxcwy?si=OQvrwZPSQzS4xxpi3-dQog&utm_source=copy-link&dl_branch=1)
 
