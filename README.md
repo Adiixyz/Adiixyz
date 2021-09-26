@@ -17,9 +17,9 @@ src="https://img.shields.io/badge/Adiixyz-red?colorA=%23ff0000&colorB=%23017e40&
 
 ### My Official Whatsapp-Bot Script
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itsuki-chan&repo=Wa&theme=tokyonight" />
-</p>
+[![Wa](https://github-readme-stats.vercel.app/api/pin/?username=Itsuki-chan&repo=Wa&theme=tokyonight)](https://github.com/Itsuki-chan/Wa)
+
+--------
 
 ## Contact Me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60199782326)
