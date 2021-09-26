@@ -11,9 +11,15 @@ src="https://img.shields.io/badge/Adiixyz-red?colorA=%23ff0000&colorB=%23017e40&
 
 --------
 
-![My card name](https://cardivo.vercel.app/api?name=Adiixyz&description=Hello,%20Im%20Adiixyz%20,Im%20a%20developer%20&image=https://github.com/Adiixyz.png?v=4&backgroundColor=%23ecf0f1&instagram=adiistah&github=Adiixyz&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Adiixyz&description=Hello,%20Im%20Adiixyz%20,%20Im%20a%20Whatsapp%20Bot%20Developer%20&image=https://github.com/Adiixyz.png?v=4&backgroundColor=%23ecf0f1&instagram=adiistah&github=Adiixyz&pattern=leaf&colorPattern=%23eaeaea)
 
 ---------
+
+### My Official Whatsapp-Bot Script
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Itsuki-chan&repo=Wa&theme=tokyonight" />
+</p>
 
 ## Contact Me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60199782326)
