@@ -1,6 +1,17 @@
 # Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="49px">
 ![to](https://github.com/Adiixyz.png)
 
+## Introduction
+```js
+function Intro() {
+        return`
+Name : Adii Andre
+Age : 19
+Birthday : 18/03/2002
+Hobby : Programming
+Likes : Anime`
+}
+```
 ## Contact Me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60199782326)
 
