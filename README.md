@@ -1,22 +1,20 @@
-# Im Adii <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="49px">
-![to](https://github.com/Adiixyz.png)
+<img align="center" height="auto" src="https://i.waifu.pics/_J9_Lfv.gif"/>
 
-## Introduction
-```js
-function Intro() {
-        return`
-Name : Adii Andre
-Age : 19
-Birthday : 18/03/2002
-Hobby : Programming
-Likes : Anime`
-}
-```
+<div align="center">
+        
+> _Hi :wave:, my name is Adii Andre<br>Hmm
+
+</div>
+
+<p align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+Adii;Learning++HTML,+and+JavaScript.;jangan+bully+saia%2C++kontol+%3A(.;Thank+you+for+your+attention." alt="adii">
+</p>
+
 ## Contact Me!
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/60199782326)
 
 ### Sosial Media
-[![YouTube](https://img.shields.io/badge/Adiixyz%20X%20404-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
+[![YouTube](https://img.shields.io/badge/Adiixyz-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
 [![tiktod](https://img.shields.io/badge/iamadyyz-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/iamadyyz)
 
 ## My Stats
