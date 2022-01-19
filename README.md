@@ -2,12 +2,12 @@
 
 <div align="center">
         
-> _Hi :wave:, my name is Adii Andre<br>Hmm
+> _Hi :wave:, my name is Adii Andre
 
 </div>
 
 <p align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+Adii;Learning++HTML,+and+JavaScript.;jangan+bully+saia%2C++kontol+%3A(.;Thank+you+for+your+attention." alt="adii">
+  <img src="http://readme-typing-svg.herokuapp.com?color=%230B80F7&center=true&vCenter=true&multiline=false&lines=Hello+there!.;My+name+is+Adii;Age:20;Likes:Girl%2C++Dislikes:Your+mom+%3A(.;Thank+you+for+your+attention." alt="adii">
 </p>
 
 ## Contact Me!
