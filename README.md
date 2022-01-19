@@ -15,7 +15,7 @@
 
 ### Sosial Media
 [![YouTube](https://img.shields.io/badge/Adiixyz-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/adiination)
-[![tiktod](https://img.shields.io/badge/iamadyyz-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/iamadyyz)
+[![tiktod](https://img.shields.io/badge/ndretodz-black?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@ndretodz)
 
 ## My Stats
 ![Github stat](https://github-readme-stats.vercel.app/api?username=Adiixyz&theme=midnight-purple&show_icons=true) 
@@ -25,6 +25,6 @@
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/Adiixyz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FMakassar)
+![Metrics](https://metrics.lecoq.io/Adiixyz?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details> 
